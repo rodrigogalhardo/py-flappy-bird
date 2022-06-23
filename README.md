@@ -1,3 +1,3 @@
-Em breve, vídeo no YouTube explicando o código!
+Jogo do Flappy Bird escrito em Py.
 
 Assets tirados de: https://github.com/sourabhv/FlapPyBird
